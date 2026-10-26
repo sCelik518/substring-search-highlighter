@@ -1,6 +1,6 @@
 {
   "name": "substring-search-highlighter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wraps matched substrings in text with custom markers for terminal or HTML output",
   "type": "module",
   "main": "src/index.js",
